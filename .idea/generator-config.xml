@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="code">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="CodeDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Code" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="code" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="CODEID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="code" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="codetype">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="CodetypeDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Codetype" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="codetype" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="CODETYPEID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="codetype" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="courier">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="CourierDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Courier" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="courier" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="COURIERID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="courier" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="owner">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="OwnerDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Owner" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="owner" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="OWNERID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="owner" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="RoleDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Role" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="role" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="ROLEID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="role" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="source">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SourceDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Source" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="source" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="SOURCEID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="source" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="user">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="UserDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="User" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="user" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="USERID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="user" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_ pn_apply_partner">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="Yjpt pnApplyPartnerDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Yjpt pnApplyPartner" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_ pn_apply_partner" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="PARTNERID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_ pn_apply_partner" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_ ps_properties_img">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="Yjpt psPropertiesImgDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Yjpt psPropertiesImg" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_ ps_properties_img" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="GID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_ ps_properties_img" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_di_worksrelationship">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptDiWorksrelationshipDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptDiWorksrelationship" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_di_worksrelationship" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="ID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_di_worksrelationship" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_logisticsmatching">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdLogisticsmatchingDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdLogisticsmatching" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_logisticsmatching" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="PRID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_logisticsmatching" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_prodetail">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdProdetailDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdProdetail" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_prodetail" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="DTID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_prodetail" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_product">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdProductDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdProduct" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_product" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="PDID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_product" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_properties">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdPropertiesDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdProperties" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_properties" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="PRID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_properties" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_protype">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdProtypeDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdProtype" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_protype" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="TID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_protype" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_sku">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdSkuDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdSku" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_sku" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="SUKID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_sku" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_pd_texture">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPdTextureDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPdTexture" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_pd_texture" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="TRID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_pd_texture" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_ps_building">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPsBuildingDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPsBuilding" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_ps_building" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="BUILDINGID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_ps_building" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_ps_properties_sale">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPsPropertiesSaleDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPsPropertiesSale" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_ps_properties_sale" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="PROPERTIESID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_ps_properties_sale" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_ps_rooms">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPsRoomsDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPsRooms" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_ps_rooms" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="ROOMSID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_ps_rooms" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="yjpt_ps_salesorder">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="YjptPsSalesorderDao" />
+              <option name="daoPackage" value="com.qp.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/Dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="YjptPsSalesorder" />
+              <option name="modelPackage" value="com.qp.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/Pojo" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="yjpt_ps_salesorder" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="SOID" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="yjpt_ps_salesorder" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\liyan\IdeaProjects\Four-stage-project\Dao" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/four?serverTimezone=GMT">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
